@@ -19,8 +19,8 @@ A minimal terminal-based AI chatbot powered by OpenRouter, using open-source mod
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/openrouter-chatbot.git
-cd openrouter-chatbot
+git clone https://github.com/MANUELO254/Minimalistic-AI-Chatbot.git
+cd Minimalistic-AI-Chatbot
 
 2. Install Requirements
 
